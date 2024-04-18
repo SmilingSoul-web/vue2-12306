@@ -58,12 +58,12 @@
           <p>新人送<b>8元</b>现金</p>
           <span>可提现微信、支付宝</span>
         </li>
-        <img src="../../assets/images/image_02_03.png" alt="" />
+        <img src="../../assets/img/image_02_03.png" alt="" />
         <li>
           <p>粉丝群福利</p>
           <span>20元机票立减劵</span>
         </li>
-        <img src="../../assets/images/image_02_05.png" alt="" />
+        <img src="../../assets/img/image_02_05.png" alt="" />
       </ul>
     </article>
     <!--热门榜单-->
@@ -83,21 +83,21 @@
                 <li>
                   <p>北京—乌鲁木齐</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     1742人热搜</span
                   >
                 </li>
                 <li>
                   <p>北京—哈尔滨</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     1423人热搜</span
                   >
                 </li>
                 <li>
                   <p>北京—三亚</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     1256人热搜</span
                   >
                 </li>
@@ -114,21 +114,21 @@
                 <li>
                   <p>北京 <i class="iconfont icon-feiji1" /> 西安</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     879人热搜</span
                   >
                 </li>
                 <li>
                   <p>上海 <i class="iconfont icon-feiji1" /> 满洲里</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     647人热搜</span
                   >
                 </li>
                 <li>
                   <p>乌鲁木齐 <i class="iconfont icon-feiji1" /> 呼和浩克</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     456人热搜</span
                   >
                 </li>
@@ -145,21 +145,21 @@
                 <li>
                   <p>北京 <i class="iconfont icon-feiji1" /> 西安</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     879人热搜</span
                   >
                 </li>
                 <li>
                   <p>上海 <i class="iconfont icon-feiji1" /> 满洲里</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     647人热搜</span
                   >
                 </li>
                 <li>
                   <p>乌鲁木齐 <i class="iconfont icon-feiji1" /> 呼和浩克</p>
                   <span
-                    ><img src="../../assets/images/image_02_14.png" alt="" />
+                    ><img src="../../assets/img/image_02_14.png" alt="" />
                     456人热搜</span
                   >
                 </li>
@@ -258,7 +258,7 @@ export default {
   min-width: 320px;
   padding: 50px 18px;
   box-sizing: border-box;
-  background: url("../../assets/images/bg.png") no-repeat;
+  background: url("../../assets/img/bg.png") no-repeat;
   background-size: 100% 260px;
   font-size: 28px;
   background-color: #f6f6f6;

@@ -30,7 +30,7 @@
               endstation
             }}的列车，您可以查询其它时间段列车
           </p>
-          <img src="../../assets/images/huoche.png" alt="" />
+          <img src="../../assets/img/huoche.png" alt="" />
         </div>
       </article>
       <!--循环组件-->
